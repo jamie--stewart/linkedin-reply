@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "linkedin-reply"
+version = "1.0.0"
+description = "Auto-reply to LinkedIn messages"
+authors = ["Jamie Steawrt <jamie@jamiestewart.co>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Jinja2 = "^3.1.2"
+pyperclip = "^1.8.2"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,9 @@
+Hi {{ name }},
+
+Thanks for reaching out with the offer. 
+{{ prefix }} I'm very happy in my role at TravelNest and am not looking for a move.
+
+Hope you find someone suitable.
+
+Thanks,
+Jamie
