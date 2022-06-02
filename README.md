@@ -60,4 +60,4 @@ Thanks,
 Jamie
 ```
 
-*(Note you need to change MY_NAME and COMPANY_NAME vars in auto.py)*
+*(Note you need to change `MY_NAME` and `COMPANY_NAME` vars in auto.py)*
