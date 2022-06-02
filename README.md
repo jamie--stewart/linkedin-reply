@@ -1,4 +1,4 @@
-# LinkedIn Reply Builder
+LinkedIn Reply Builder
 
 > Politely decline, fast!
 
@@ -18,13 +18,30 @@ Copy generated for John
 Copy generated for Jane
 ```
 
+
+```
+Input name (or empty string to exit)
+
+Another name:John
+
+Prefix?:The job sounds great
+Copy generated for John
+
+Another name:Jane
+
+Prefix?:
+Copy generated for Jane
+
+Another name: 
+```
+
 and your pasteboard looks like:
 
 ```
 Hi John,
 
 Thanks for reaching out with the offer.
-The job sounds great, but right now I'm very happy in my role at TravelNest and am not looking for a move.
+The job sounds great, but I'm very happy in my role at ACME Org. and am not looking for a move.
 
 Hope you find someone suitable.
 
@@ -34,8 +51,8 @@ Jamie
 
 Hi Jane,
 
-Thanks for reaching out with the offer. 
-Right now I'm very happy in my role at TravelNest and am not looking for a move.
+Thanks for reaching out with the offer.
+Right now I'm very happy in my role at ACME. Org  and am not looking for a move.
 
 Hope you find someone suitable.
 
@@ -43,4 +60,4 @@ Thanks,
 Jamie
 ```
 
-Note you can provide a prefix 
+*(Note you need to change MY_NAME and COMPANY_NAME vars in auto.py)*
